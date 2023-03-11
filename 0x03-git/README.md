@@ -1,1 +1,1 @@
-My new readme inside git folder
+My new readme inside git folder.
